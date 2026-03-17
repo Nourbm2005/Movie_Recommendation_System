@@ -1,0 +1,50 @@
+[2026-02-06 23:48:27,420] INFO - 🔁 Loading data...
+[2026-02-06 23:48:27,420] ERROR - ❌ Failed to load required files: [Errno 2] No such file or directory: 'df_cleaned.pkl'
+[2026-02-06 23:48:54,306] INFO - 🔁 Loading data...
+[2026-02-06 23:48:54,307] ERROR - ❌ Failed to load required files: [Errno 2] No such file or directory: 'df_cleaned.pkl'
+[2026-02-06 23:49:06,374] INFO - 🔁 Loading data...
+[2026-02-06 23:49:06,377] ERROR - ❌ Failed to load required files: [Errno 2] No such file or directory: 'df_cleaned.pkl'
+[2026-02-06 23:52:04,073] INFO - 🔁 Loading data...
+[2026-02-06 23:52:04,564] INFO - ✅ Data loaded successfully.
+[2026-02-06 23:52:30,030] INFO - 🎬 Recommending movies for: 'Twilight'
+[2026-02-06 23:52:30,039] INFO - ✅ Top 5 recommendations ready.
+[2026-02-06 23:53:15,769] INFO - 🎬 Recommending movies for: 'After'
+[2026-02-06 23:53:15,778] INFO - ✅ Top 5 recommendations ready.
+[2026-02-06 23:54:06,999] INFO - 🎬 Recommending movies for: 'Batman'
+[2026-02-06 23:54:06,999] INFO - ✅ Top 5 recommendations ready.
+[2026-02-06 23:54:52,305] INFO - 🔁 Loading data...
+[2026-02-06 23:54:52,790] INFO - ✅ Data loaded successfully.
+[2026-02-06 23:55:01,579] INFO - 🎬 Recommending movies for: 'Twilight'
+[2026-02-06 23:55:01,582] INFO - ✅ Top 5 recommendations ready.
+[2026-02-06 23:59:48,896] INFO - 🎬 Recommending movies for: 'Home Alone'
+[2026-02-06 23:59:48,901] INFO - ✅ Top 5 recommendations ready.
+[2026-02-07 00:04:46,836] INFO - 🎬 Recommending movies for: 'Hatchet'
+[2026-02-07 00:04:46,845] INFO - ✅ Top 5 recommendations ready.
+[2026-02-07 00:05:28,097] INFO - 🎬 Recommending movies for: 'Troll Hunter'
+[2026-02-07 00:05:28,097] INFO - ✅ Top 5 recommendations ready.
+[2026-02-07 08:51:08,341] INFO - 🔁 Loading data...
+[2026-02-07 08:51:10,118] INFO - ✅ Data loaded successfully.
+[2026-02-07 08:51:31,655] INFO - 🎬 Recommending movies for: 'Twilight'
+[2026-02-07 08:51:31,688] INFO - ✅ Top 5 recommendations ready.
+[2026-02-07 08:52:10,958] INFO - 🎬 Recommending movies for: 'Titanic'
+[2026-02-07 08:52:10,967] INFO - ✅ Top 5 recommendations ready.
+[2026-02-07 20:10:48,386] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2026-02-07 20:10:48,407] INFO - ✅ Top 5 recommendations ready.
+[2026-02-07 20:11:08,881] INFO - 🎬 Recommending movies for: 'A Walk to Remember'
+[2026-02-07 20:11:08,897] INFO - ✅ Top 5 recommendations ready.
+[2026-02-07 20:34:33,805] INFO - 🎬 Recommending movies for: 'Home Alone'
+[2026-02-07 20:34:33,829] INFO - ✅ Top 5 recommendations ready.
+[2026-02-11 17:03:41,283] INFO - 🔁 Loading data...
+[2026-02-11 17:03:42,100] INFO - ✅ Data loaded successfully.
+[2026-02-11 17:05:39,611] INFO - 🎬 Recommending movies for: 'Home Alone'
+[2026-02-11 17:05:39,628] INFO - ✅ Top 5 recommendations ready.
+[2026-02-11 20:39:17,435] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2026-02-11 20:39:17,467] INFO - ✅ Top 5 recommendations ready.
+[2026-02-11 20:43:18,162] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2026-02-11 20:43:18,172] INFO - ✅ Top 5 recommendations ready.
+[2026-02-11 20:43:34,091] INFO - 🎬 Recommending movies for: '16 to Life'
+[2026-02-11 20:43:34,105] INFO - ✅ Top 5 recommendations ready.
+[2026-02-11 20:44:01,071] INFO - 🎬 Recommending movies for: 'Titanic'
+[2026-02-11 20:44:01,079] INFO - ✅ Top 5 recommendations ready.
+[2026-02-11 21:41:55,750] INFO - 🎬 Recommending movies for: 'Home Alone'
+[2026-02-11 21:41:55,791] INFO - ✅ Top 5 recommendations ready.
